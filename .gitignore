@@ -1,0 +1,16 @@
+/.lein-*
+/.nrepl-port
+node_modules
+.#*
+.DS_Store
+*~
+.*.swp
+*.bak
+/.shadow-cljs
+/.env
+/target
+/.clj-kondo/.cache
+/gen
+/.calva
+/.lsp/sqlite.db
+/.lsp/.cache
